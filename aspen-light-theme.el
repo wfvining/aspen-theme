@@ -16,7 +16,7 @@
  '(font-lock-constant-face ((t (:inherit font-lock-variable-name-face :foreground "SkyBlue3" :slant italic))))
  '(fringe ((t (:background "dark gray"))))
  '(font-lock-type-face ((t (:inherit default :foreground "chartreuse4" :weight normal))))
- '(font-lock-variable-name-face ((t (:inherit default :foreground "RoyalBlue3"))))
+ '(font-lock-variable-name-face ((t (:inherit default :foreground "SkyBlue3"))))
  '(font-lock-comment-face ((t (:inherit default :foreground "slate blue" :slant italic))))
  '(font-lock-string-face ((t (:inherit default :foreground "DodgerBlue4" :slant italic))))
  '(font-lock-builtin-face ((t (:inherit default :foreground "dark slate blue"))))
